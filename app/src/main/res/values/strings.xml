@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Noctambulos</string>
+    <string name="title_activity_maps">Noctambulos</string>
+    <string name="txtRestaurantes">Restaurantes</string>
+    <string name="txtBares">Bares</string>
+    <string name="txtDiscotecas">Discotecas</string>
+    <string name="title_activity_lugares">LugaresActivity</string>
+    <string name="textAbierto">¿Atiende ahora?</string>
+    <string name="textLongitud">Longitud</string>
+</resources>
